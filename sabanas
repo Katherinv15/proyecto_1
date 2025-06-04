@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SABANAS DE BUENA CALIDAD ">
+    <title>SABANAS KATHERINE</title>
+
+    <style>
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #a6a6a6;
+        }
+        header {
+                        color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #fff;
+            text-decoration: none;
+ }
+        .banner {
+            background-image: url('banner.jpg'); /* Asegúrate de tener esta imagen */
+            height: 300px;
+            background-size: cover;
+            text-align: center;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2em;
+            animation: blink 1s step-start infinite;
+        }
+       
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+        .products {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 20px;
+        }
+        .product {
+            border: 1px solid #ddd;
+            margin: 10px;
+            padding: 10px;
+            background: white;
+            width: 200px;
+            text-align: center;
+  }
+        .product:hover {
+            transform: scale(1.05); /* Aumenta el tamaño al pasar el ratón */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra */
+        }
+
+               footer {
+            text-align: center;
+            padding: 20px;
+            body background="fon.jpeg";
+
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+  }
+        .testimonial, .blog-post {
+            margin: 20px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            background: white;
+        }
+        h2, h3 {
+            color: #0056b3; /* Color de los encabezados */
+        }
+        p {
+            color: #333; /* Color del texto */
+        }
+       
+        .parpadeante {
+            color: #ff0997; /* Color para texto parpadeante */
+            animation: blink 1s step-start infinite;
+        }
+    </style>
+</head>
+<body>
+<body background="kkk.jpg" />
+
+<header>
+<center>
+    <h1 class="parpadeante">SABANAS_KATHERINE</h1>
+   </header>
+
+<p style="color:teal"align="center">Aquí encontrarás varios diseños de sabanas de buena calidad y a un precio cómodo. </p>
+<p style="color:teal" align="center" >Puedes hacer pedidos anticipados o solicitar tu modelo de sabanas preferido.</p>
+
+<img src="im1.jpg" width="400" height="300"  />                                              
+<p align="center"><p>
+<img src="im2.jpg" width="400" height="300" align="right" />
+<p style="color:teal">Puedes apartar tus pedidos escrbiendo al <style="color:blue">0981573909 </p>
+
+
+<table border=1 width=350 align="right">
+<tr>
+<td><p style="color:lime">Precios</td><td><p style="color:Aqua"> </td></tr>
+<tr>
+
+<td><p style="color:black"> $25</td><td><p style="color:maroon">Sabanas de 2 plazas</td><td>
+<tr>
+<td><p style="color:black">$20</td><td><p style="color:maroon">Sabanas de plaza y media</td>
+<tr>
+<td><p style="color:black">$15</td><td><p style="color:maroon">Sabanas de niños</td></tr>
+
+
+
+
+</HTML>
+
